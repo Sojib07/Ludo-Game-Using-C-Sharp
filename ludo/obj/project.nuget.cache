@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dahdvmlI9PYHM/tMSBD10KeWO7n7qv2l2mn/sOb1bYORUVLiYL88TjENP4P9tX4sQ59ZJCwooRErMwdeFYplAQ==",
+  "success": true,
+  "projectFilePath": "G:\\Devskill\\Practice\\ludo-20210926T174048Z-001\\ludo\\ludo\\ludo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
